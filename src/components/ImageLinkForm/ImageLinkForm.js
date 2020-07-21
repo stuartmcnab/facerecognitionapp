@@ -13,7 +13,7 @@ const ImageLinkForm = ({ onInputChange, onButtonSubmit }) => {
           <button
             className='w-30 f4 link ph3 pv2 dib white bg-orange'
             onClick={onButtonSubmit}
-          >Detect</button>
+          >Detect a face</button>
         </div>
       </div>
     </div>
